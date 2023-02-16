@@ -47,6 +47,8 @@ Les lettres du vivant et les cycles du temps
 
 [[PDF] Le problème religieux version 2 - Extrait - Le mental et la prière](https://github.com/Ordisoftware/Torah-Physicalist-Exegesis/blob/main/Le%20probl%C3%A8me%20religieux%20II/Le%20probl%C3%A8me%20religieux%20v2%20-%20Extrait%20-%20Pri%C3%A8re.pdf)<br>
 
+[[PDF] Le problème religieux version 2 - Extrait - Les tribus de Jacob](https://github.com/Ordisoftware/Torah-Physicalist-Exegesis/blob/main/Le%20probl%C3%A8me%20religieux%20II/Le%20probl%C3%A8me%20religieux%20v2%20-%20Extrait%20-%20Les%20tribus%20de%20Jacob.pdf)<br>
+
 [[PDF] Le problème religieux version 2 - Extrait - Kabalah Pessah](https://github.com/Ordisoftware/Torah-Physicalist-Exegesis/blob/main/Le%20probl%C3%A8me%20religieux%20II/Le%20probl%C3%A8me%20religieux%20v2%20-%20Extrait%20-%20Kabalah%20Pessah.pdf)<br>
 
 [[PDF] Le problème religieux version 2 - Extrait - Tehilim 3](https://github.com/Ordisoftware/Torah-Physicalist-Exegesis/blob/main/Le%20probl%C3%A8me%20religieux%20II/Le%20probl%C3%A8me%20religieux%20v2%20-%20Extrait%20-%20Tehilim%203.pdf)<br>
@@ -180,6 +182,6 @@ Le décodage des versets du Tanak à l'aide de dictionnaires, d'enseignements de
 
 #### Deuxième version WordPress (actuel)
 
-[[ZIP] Website WordPress 2023.01.27](Website%20WordPress.zip)
+[[ZIP] Website WordPress 2023.02.16](Website%20WordPress.zip)
 
 Navigable sur [ordisoftware.github.io/Torah-Physicalist-Exegesis](https://ordisoftware.github.io/Torah-Physicalist-Exegesis)
