@@ -8,7 +8,7 @@
 
 **Version de travail**
 
-Contient 248 versets entièrement décodés à la date du 28 avril 2023.
+Contient 232 versets entièrement décodés à la date du 29 mai 2023.
 
 *Les versets du livre Le problème religieux ne sont pas encore entièrement importés.*
 
