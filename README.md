@@ -176,6 +176,14 @@ Le décodage des versets du Tanak à l'aide de dictionnaires, d'enseignements de
                                                                        
 [[PDF] Addenda 2 pour les pitres et les pitresses : les coulisses](https://github.com/Ordisoftware/Torah-Physicalist-Exegesis/blob/main/Documents/Addenda-pour-les-pitres-et-les-pitresses-2.pdf)
 
+[[PDF] Addenda 3 pour les pitres et les pitresses : le chemin](https://github.com/Ordisoftware/Torah-Physicalist-Exegesis/blob/main/Documents/Addenda-pour-les-pitres-et-les-pitresses-3.pdf)
+
+[[PDF] Addenda 4 pour les pitres et les pitresses : les preuves](https://github.com/Ordisoftware/Torah-Physicalist-Exegesis/blob/main/Documents/Addenda-pour-les-pitres-et-les-pitresses-4.pdf)
+
+[[PDF] Addenda 5 pour les pitres et les pitresses : le debrief](https://github.com/Ordisoftware/Torah-Physicalist-Exegesis/blob/main/Documents/Addenda-pour-les-pitres-et-les-pitresses-5.pdf)
+
+[[PDF] Addenda 6 pour les pitres et les pitresses : le transfert](https://github.com/Ordisoftware/Torah-Physicalist-Exegesis/blob/main/Documents/Addenda-pour-les-pitres-et-les-pitresses-6.pdf)
+
 #### Première version Google Sites Classic (obsolete)
 
 [[ZIP] Website GoogleSites 2021.03.29](Website%20GoogleSites.zip)
