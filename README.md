@@ -168,22 +168,6 @@ Le décodage des versets du Tanak à l'aide de dictionnaires, d'enseignements de
 
 [[PDF] Théorie de santé-aide-justice](https://github.com/Ordisoftware/Torah-Physicalist-Exegesis/blob/main/Documents/Th%C3%A9orie%20de%20sant%C3%A9-aide-justice.pdf)
 
-[[PDF] Compilation d'articles sur le Copyright Trolling](https://github.com/Ordisoftware/Torah-Physicalist-Exegesis/blob/main/Documents/Articles%20sur%20le%20Copyright%20Trolling.pdf)
-
-#### Roman dialogué de science romantique mise en fiction par les technologies du troisième millénaire EC
-
-[[PDF] Addenda 1 pour les pitres et les pitresses : la représentation](https://github.com/Ordisoftware/Torah-Physicalist-Exegesis/blob/main/Documents/Addenda-pour-les-pitres-et-les-pitresses-1.pdf)
-                                                                       
-[[PDF] Addenda 2 pour les pitres et les pitresses : les coulisses](https://github.com/Ordisoftware/Torah-Physicalist-Exegesis/blob/main/Documents/Addenda-pour-les-pitres-et-les-pitresses-2.pdf)
-
-[[PDF] Addenda 3 pour les pitres et les pitresses : le chemin](https://github.com/Ordisoftware/Torah-Physicalist-Exegesis/blob/main/Documents/Addenda-pour-les-pitres-et-les-pitresses-3.pdf)
-
-[[PDF] Addenda 4 pour les pitres et les pitresses : les preuves](https://github.com/Ordisoftware/Torah-Physicalist-Exegesis/blob/main/Documents/Addenda-pour-les-pitres-et-les-pitresses-4.pdf)
-
-[[PDF] Addenda 5 pour les pitres et les pitresses : le debrief](https://github.com/Ordisoftware/Torah-Physicalist-Exegesis/blob/main/Documents/Addenda-pour-les-pitres-et-les-pitresses-5.pdf)
-
-[[PDF] Addenda 6 pour les pitres et les pitresses : le transfert](https://github.com/Ordisoftware/Torah-Physicalist-Exegesis/blob/main/Documents/Addenda-pour-les-pitres-et-les-pitresses-6.pdf)
-
 #### Première version Google Sites Classic (obsolete)
 
 [[ZIP] Website GoogleSites 2021.03.29](Website%20GoogleSites.zip)
