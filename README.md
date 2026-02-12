@@ -174,6 +174,6 @@ Le décodage des versets du Tanak à l'aide de dictionnaires, d'enseignements de
 
 #### Deuxième version WordPress (actuel)
 
-[[ZIP] Website WordPress 2026.01.12](Website%20WordPress.zip)
+[[ZIP] Website WordPress 2026.02.12](Website%20WordPress.zip)
 
 Navigable sur [ordisoftware.github.io/Torah-Physicalist-Exegesis](https://ordisoftware.github.io/Torah-Physicalist-Exegesis)
